@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Java8-OnTop/Java8-OnTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+Hi there, I'm **XSS6**, a **Minecraft player and developer** from Canada. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-### [![XSS6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Java8-OnTop)](https://github.com/anuraghazra/github-readme-stats)
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Java8-OnTop&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=Java8-OnTop)
+
+⭐️ From [XSS6](https://github.com/Java8-OnTop)
