@@ -14,9 +14,9 @@ Hi there, I'm **XSS6**, a **Minecraft player and developer** from Canada.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 **My projects:**
-Spartan, A premium minecraft client
-KetoLang, improved kotlin
-XSLIB, a library for all of my mods
+Spartan, A premium minecraft client.
+KetoLang, improved kotlin.
+XSLIB, a library for all of my mods.
 AescLoader, custom minecraft modloader
 
 
