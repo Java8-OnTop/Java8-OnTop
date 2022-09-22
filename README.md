@@ -24,3 +24,5 @@ AescLoader, custom minecraft modloader
 ![](https://komarev.com/ghpvc/?username=Java8-OnTop)
 
 ⭐️ From [XSS6](https://github.com/Java8-OnTop)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Java8-OnTop)](https://github.com/anuraghazra/github-readme-stats)
